@@ -1,5 +1,5 @@
 /**
- * Progression and Progression System
+ * Progression System
  * - Experience and leveling
  * - Ability upgrades
  * - Equipment and mods
